@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+h1 { color: blue;
+	 font-size: 4em;
+	 font-family:  "Times New Roman", "Arial", serif;
+	 text-transform: uppercase;
+}
+.intromessage {text-align: center;
+				width: 100%;
+				}
